@@ -1,7 +1,6 @@
-[
-{
-name: "Republican",
-series: [
+[{
+"name": "Republican",
+"series": [
  {
    "name": "0",
    "value": "0"
@@ -410,8 +409,8 @@ series: [
 }
 ,
 {
-name: "Democratic",
-series: [
+"name": "Democratic",
+"series": [
  {
    "name": "0",
    "value": "0"
