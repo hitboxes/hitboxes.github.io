@@ -214,7 +214,7 @@
    "value": "64.05357142857143"
  },
  {
-   "name": "53.,
+   "name": "53",
    "value": "66.77499999999999"
  },
  {
@@ -408,8 +408,8 @@
 ]
 },
 {
-name: "Democratic",
-series: [
+"name": "Democratic",
+"series": [
  {
    "name": "0",
    "value": "0"
