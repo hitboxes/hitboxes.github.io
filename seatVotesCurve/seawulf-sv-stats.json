@@ -1,0 +1,21 @@
+[
+	{
+
+			"FLORIDA" : {
+				"Bias at 50%" : 10.296,
+				"Partisan Symmetry" : 40.812,
+				"Responsiveness" : 10.296
+				},
+			"GEORGIA" : {
+				"Bias at 50%" : 7.007,
+				"Partisan Symmetry" : 12.5,
+				"Responsiveness" : 1.836
+				},
+			"MISSISSIPPI" : {
+				"Bias at 50%" : 20.975,
+				"Partisan Symmetry" : 36.85681818,
+				"Responsiveness" : 2.2975
+				},
+
+			}
+]
